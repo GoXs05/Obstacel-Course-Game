@@ -1,1 +1,1 @@
-# Obstacel-Course-Game
+# Obstacle-Course-Game
